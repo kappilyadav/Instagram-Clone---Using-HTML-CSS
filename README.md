@@ -1,1 +1,1 @@
-# Instagram-Clone---Using-HTML-CSS
+# Instagram Clone - Using HTML/CSS
